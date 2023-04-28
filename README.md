@@ -1,5 +1,5 @@
 ### Hey, I'm Tom! 👋
 
-- 💼 Software Engineer at [Citrix](https://www.citrix.com), previously [Amadeus](https://amadeus.com)
-- 🎾 Working on [Racket Reel](https://github.com/racketreel) in my spare time
+- 💼 Software Engineer working somewhere I cannot disclose but previously [Citrix](https://www.citrix.com) and [Amadeus](https://amadeus.com)
+- 🎾 Working on [Racket Reel](https://github.com/racketreel) a social platform for tennis
 - 🎓 University of York Computer Science graduate
